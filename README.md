@@ -1,4 +1,4 @@
-# 🎗️ Breast Cancer Diagnosis Machine Learning Project 🎗️
+# 🎗️Breast Cancer Diagnosis Machine Learning Project🎗️
 
 ## Overview
 Welcome to the Breast Cancer Diagnosis Machine Learning Project! This project aims to develop and evaluate machine learning models for predicting breast cancer diagnosis using the Wisconsin Breast Cancer dataset. The goal is to create accurate models that classify breast masses as benign or malignant based on their features.
