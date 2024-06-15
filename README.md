@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the Breast Cancer Diagnosis Machine Learning Project! This project aims to develop and evaluate machine learning models for predicting breast cancer diagnosis using the Wisconsin Breast Cancer dataset. The goal is to create accurate models that classify breast masses as benign or malignant based on their features.
 
-For a detailed exploration of the project, view the Colab notebook [here](https://colab.research.google.com/drive/1-0QJfACRuZeP-PPDraePU2plXuEYJt0A?usp=sharing).
+For a detailed exploration of the project, view the Colab notebook [here](https://colab.research.google.com/github/ishita48/Breast-Cancer-Diagnosis-ML-model/blob/main/Breast_Cancer_Diagnosis.ipynb).
 
 ## Dataset 📊
 The [Wisconsin Breast Cancer dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) includes essential features such as:
