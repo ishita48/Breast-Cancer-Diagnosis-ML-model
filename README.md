@@ -61,6 +61,19 @@ Each model is evaluated using metrics like accuracy, precision, recall, and F1-s
 - **Logistic Regression**: Simple yet effective, offering interpretability.
 - **Neural Networks**: Provide advanced modeling capabilities with potential for further enhancement through tuning.
 
+## Usage 🚀
+
+- **Data Preparation**: Load and preprocess the Wisconsin Breast Cancer dataset.
+- **Model Training**: Train models using various algorithms and hyperparameters.
+- **Evaluation**: Assess model performance with validation metrics and visualizations.
+- **Contribution**: Contributions are welcome via pull requests. Fork the repository, create a branch, commit changes, and submit a pull request.
+
+## Visualizations 📊
+Visualize model performance with:
+
+**Confusion Matrices**: Illustrating true positives, false positives, true negatives, and false negatives.
+**Classification Reports**: Detailed metrics for precision, recall, and F1-score.
+
 ## Installation 🔧
 Ensure Python 3.x and required libraries are installed:
 ```bash
