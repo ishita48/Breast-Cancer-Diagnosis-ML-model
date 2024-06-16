@@ -71,7 +71,8 @@ Each model is evaluated using metrics like accuracy, precision, recall, and F1-s
 ## Visualizations 📊
 Visualize model performance with:
 
-**Confusion Matrices**: Illustrating true positives, false positives, true negatives, and false negatives.
+**Confusion Matrices**: Illustrating true positives, false positives, true negatives, and false negatives. 
+
 **Classification Reports**: Detailed metrics for precision, recall, and F1-score.
 
 ## Installation 🔧
